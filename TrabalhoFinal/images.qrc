@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>2 Hyena/Hyena.png</file>
+        <file>2 Hyena/Hyena_walk.png</file>
+        <file>2 Hyena/Hyena_idle.png</file>
+        <file>2 Hyena/Hyena_hurt.png</file>
+        <file>2 Hyena/Hyena_death.png</file>
+        <file>2 Hyena/Hyena_attack.png</file>
+        <file>campo.jpg</file>
+        <file>BG.png</file>
+        <file>freetileset/png/Tiles/18.png</file>
+        <file>freetileset/png/Tiles/17.png</file>
+        <file>freetileset/png/Tiles/16.png</file>
+        <file>freetileset/png/Tiles/15.png</file>
+        <file>freetileset/png/Tiles/14.png</file>
+        <file>freetileset/png/Tiles/13.png</file>
+        <file>freetileset/png/Tiles/12.png</file>
+        <file>freetileset/png/Tiles/11.png</file>
+        <file>freetileset/png/Tiles/10.png</file>
+        <file>freetileset/png/Tiles/9.png</file>
+        <file>freetileset/png/Tiles/8.png</file>
+        <file>freetileset/png/Tiles/7.png</file>
+        <file>freetileset/png/Tiles/6.png</file>
+        <file>freetileset/png/Tiles/5.png</file>
+        <file>freetileset/png/Tiles/4.png</file>
+        <file>freetileset/png/Tiles/3.png</file>
+        <file>freetileset/png/Tiles/2.png</file>
+        <file>freetileset/png/Tiles/1.png</file>
+        <file>4 Vulture/Vulture.png</file>
+        <file>4 Vulture/Vulture_walk.png</file>
+        <file>4 Vulture/Vulture_idle.png</file>
+        <file>4 Vulture/Vulture_hurt.png</file>
+        <file>4 Vulture/Vulture_death.png</file>
+        <file>4 Vulture/Vulture_attack.png</file>
+        <file>../../../sprites/2 Mount animals/6 Bear/Attack.png</file>
+        <file>../../../sprites/2 Mount animals/6 Bear/Walk.png</file>
+        <file>../../../sprites/2 Mount animals/6 Bear/Idle.png</file>
+        <file>6 Bear/Attack.png</file>
+        <file>6 Bear/Walk.png</file>
+        <file>6 Bear/Idle.png</file>
+        <file>URSINHO/Walk.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource prefix="/song">
+        <file>gilvasunner-reupload-athletic-theme-super-mario-world.mp3</file>
+    </qresource>
+</RCC>
